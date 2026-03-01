@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Full Jekyll Setup"
+title: "Prepare for relocation"
 date: 2025-03-01
 categories: [Blog, Personal]
 ---
