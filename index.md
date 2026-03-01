@@ -1,2 +1,6 @@
-# Note
+---
+layout: default
+title: "Notes"
+---
+
 
