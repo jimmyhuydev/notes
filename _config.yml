@@ -5,5 +5,5 @@ plugins:
 title: My Notes
 description: Just for notes
 url: https://jimmyhuydev.github.io/  # the base hostname and protocol for your site, e.g. http://example.com
-baseurl: /notes/      # place folder name if the site is served in a subfolder
+baseurl: notes/      # place folder name if the site is served in a subfolder
 
