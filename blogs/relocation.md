@@ -3,6 +3,7 @@ layout: post
 title: "Prepare for relocation"
 date: 2025-03-01
 categories: [Blog, Personal]
+author: Jimmy
 ---
 
 # Relocation
