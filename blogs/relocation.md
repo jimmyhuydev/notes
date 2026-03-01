@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Full Jekyll Setup"
+date: 2025-03-01
+categories: [Blog, Personal]
+---
+
 # Relocation
 
 ## Person 1:
