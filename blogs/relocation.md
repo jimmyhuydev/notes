@@ -1,1 +1,44 @@
 # Relocation
+
+## Person 1:
+
+### Lugggage checkin (23kg)
+- Sleeping bag x 3
+- Bowl x 3
+- Kitchen stuff (spoon, chopstick,knife..)
+- water pik
+- belt
+- cavas
+- water filter
+- Laptop stand
+- Coffee cup
+_ 
+
+### luggage carry-on (7kg - 10kg)
+- clothes
+- suit
+- documents
+- Light table and plastic cover
+- Hair shaver + battery
+- Portable coffee maker + battery
+
+### Personal carry-on (7kg - 10kg)
+- Laptop 1: thinkpad
+- Laptop 2: thinkpad
+_ laptop 3: Chromebook plus
+- Mac mini
+- Dell mini (lab)
+- Tablet 1 (artist stuff)
+- Tablet 2 (artist stuff)
+- Toothpaste small + electric toothbrush
+_ shaver + battery
+- AA battery
+- AAAA battery
+- Head lamp
+- Water bottle
+
+## Person 2:
+### luggage 1:
+- Clothes
+
+
