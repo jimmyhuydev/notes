@@ -6,18 +6,35 @@ categories: [Blog, Personal]
 author: Jimmy
 ---
 
-# bookmarks
+## bookmarks
 
-Alternative to github
+## Alternative to github
 https://forgejo.org/
 
-Blog to follow
+## Blog to follow
 https://jamesgurney.substack.com/
 
-CS
+## CS
 https://github.com/Developer-Y/cs-video-courses
 
-Ebook free
+## Ebook free
 https://drive.google.com/drive/folders/1ECC_jI3dtC2wFEvDRNaPF7c3O75Rlb3U
 
-A.I books https://medkharbach.com/ai-literacy-guides/
+## A.I books 
+https://medkharbach.com/ai-literacy-guides/
+
+## CML Cisco
+
+https://blogs.cisco.com/learning/the-peloton-approach-to-ccna-exam-success
+
+https://u.cisco.com/
+
+https://github.com/CiscoDevNet/cml-community
+
+Here’s what you’ll need to get started:
+
+    * CML MCP Server (setup instructions)
+    * CML installed (local installation) – Free
+    * AI model configured –  (Use your preferred model or agent that can talk to MCP). Here are some free options:
+        * Claude Desktop – Free
+         – Free local Models
