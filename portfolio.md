@@ -70,11 +70,12 @@ A personal lab built on a Dell Mini PC running Proxmox VE. Used daily to practic
 ---
 
 ## Certifications
+I have completed the following lessons:
 
-Palo Alto - Cybersecurity Fundamental
-Palo Alto - Security Operation Fundamental
-Palo Alto - Cloud Security Fundamental
-Palo Alto - Network Security Fundamental
+* Palo Alto - Cybersecurity Fundamental
+* Palo Alto - Security Operation Fundamental
+* Palo Alto - Cloud Security Fundamental
+* Palo Alto - Network Security Fundamental
 
 ---
 ## Contact
