@@ -65,14 +65,6 @@ Hardware troubleshooting · OS installation · User support · Documentation
 A personal lab built on a Dell Mini PC running Proxmox VE. Used daily to practice Cisco networking, Linux administration, and security tooling in an isolated environment.
 [Read the write-up →]({% post_url 2024-01-15-building-my-homelab %})
 
-### 🐧 Puppy Linux on MacBook Air 2014
-Revived an old MacBook Air by installing Puppy Linux via frugal install with full UEFI and Broadcom Wi-Fi support.
-[Read the write-up →]({% post_url 2024-05-05-puppy-linux-macbook-air-2014 %})
-
-### 💾 Swap File on Old Laptop
-Configured and resized a swap file on a 4 GB RAM laptop to improve Linux performance.
-[Read the write-up →]({% post_url 2025-01-23-swap-file-for-old-laptop %})
-
 ---
 
 ## Contact
