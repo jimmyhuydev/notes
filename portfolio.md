@@ -45,7 +45,7 @@ I'm an IT Support professional who believes the best way to learn is to get your
 ## Skills
 
 **Networking**
-Cisco IOS · VLANs · OSPF · BGP · TCP/IP · nmap
+Cisco IOS · VLANs · OSPF · BGP · TCP/IP 
 
 **Linux**
 Ubuntu · Kali · Bash scripting · Vim · SSH
@@ -54,7 +54,7 @@ Ubuntu · Kali · Bash scripting · Vim · SSH
 Proxmox VE · UTM · CML (Cisco Modeling Lab)
 
 **Tools & Software**
-Git · VS Code · Python · Wireshark
+Git · VS Code · Python · Wireshark · Nmap
 
 **IT Support**
 Hardware troubleshooting · OS installation · User support · Documentation
