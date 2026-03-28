@@ -1,7 +1,9 @@
 ---
 layout: post
-title: Portfolio
-
+title: "Portfolio"
+date: 2024-03-25
+category: portfolio
+description: "something about me"
 ---
 
 # Hi, I'm Jimmy 👋
