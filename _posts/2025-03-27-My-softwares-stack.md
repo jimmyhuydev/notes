@@ -43,6 +43,7 @@ A running list of everything I use across my three platforms. I try to keep thin
 ## 📱 iPhone
 
 ### Communication & Social
+
 | App | Purpose |
 |-----|---------|
 | **Viber** | Messaging |
@@ -55,6 +56,7 @@ A running list of everything I use across my three platforms. I try to keep thin
 | **Reddit** | Forums and communities |
 
 ### Productivity & Notes
+
 | App | Purpose |
 |-----|---------|
 | **Substack** | Newsletter reading |
@@ -65,6 +67,7 @@ A running list of everything I use across my three platforms. I try to keep thin
 | **A-Shell** | Offline Linux terminal on iPhone |
 
 ### Reading & Books
+
 | App | Purpose |
 |-----|---------|
 | **Kindle** | Ebook reader |
@@ -72,6 +75,7 @@ A running list of everything I use across my three platforms. I try to keep thin
 | **Bookshelf** | Free and paid books online |
 
 ### Security & Authentication
+
 | App | Purpose |
 |-----|---------|
 | **Bitwarden** | Password manager |
@@ -80,6 +84,7 @@ A running list of everything I use across my three platforms. I try to keep thin
 | **Microsoft Authenticator** | Two-factor authentication |
 
 ### Cloud Storage
+
 | App | Purpose |
 |-----|---------|
 | **pCloud** | Cloud storage |
@@ -87,6 +92,7 @@ A running list of everything I use across my three platforms. I try to keep thin
 | **FE File Manager** | File management |
 
 ### Smart Home & Security
+
 | App | Purpose |
 |-----|---------|
 | **SwannCloud** | Security camera monitoring |
@@ -96,6 +102,7 @@ A running list of everything I use across my three platforms. I try to keep thin
 | **Mirabelle Genio** | Smart home control |
 
 ### Media & Music
+
 | App | Purpose |
 |-----|---------|
 | **Audify Music Player** | Offline music, no ads |
@@ -104,6 +111,7 @@ A running list of everything I use across my three platforms. I try to keep thin
 | **Castbox** | Podcast player |
 
 ### Travel & Location
+
 | App | Purpose |
 |-----|---------|
 | **What3words** | Precise location sharing |
@@ -112,6 +120,7 @@ A running list of everything I use across my three platforms. I try to keep thin
 | **AA Roadservice** | AA roadside assistance |
 
 ### Utilities & Services
+
 | App | Purpose |
 |-----|---------|
 | **Gmail** | Email |
