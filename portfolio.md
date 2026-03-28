@@ -7,6 +7,8 @@ title: Portfolio
 
 I work in **IT Support** with a passion for homelabs, infrastructure, and self-directed learning. When I'm not solving problems at work, I'm building and breaking things in my home lab.
 
+Active learning Python, DevOps knowledge and Palo Alto firewall
+
 ---
 
 ## About Me
