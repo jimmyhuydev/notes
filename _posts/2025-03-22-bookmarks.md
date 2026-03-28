@@ -32,9 +32,8 @@ https://u.cisco.com/
 https://github.com/CiscoDevNet/cml-community
 
 Here’s what you’ll need to get started:
-
-    * CML MCP Server (setup instructions)
-    * CML installed (local installation) – Free
-    * AI model configured –  (Use your preferred model or agent that can talk to MCP). Here are some free options:
-        * Claude Desktop – Free
-         – Free local Models
+  * CML MCP Server (setup instructions)[https://github.com/CiscoDevNet/cml-community]
+  * CML installed (local installation)[https://developer.cisco.com/docs/modeling-labs/cml-free/#cisco-modeling-labs---free] – Free
+  * AI model configured –  (Use your preferred model or agent that can talk to MCP). Here are some free options:
+        - Claude Desktop – Free
+        – Free local Models
