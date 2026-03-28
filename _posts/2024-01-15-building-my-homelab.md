@@ -76,6 +76,6 @@ Real-world IT environments are hybrid. A Windows VM lets me practice cross-platf
 
 Documentation and tutorials only take you so far. The moment you misconfigure a router and lose connectivity, or watch a bash script actually automate a task — that's when knowledge turns into skill.
 
-The total cost? A secondhand Dell Mini PC and a travel router. The return? An always-available, personal training ground where I control everything.
+A used Dell Mini PC and a cheap travel router — that's all it took. In return, I got a personal mobility lab that's always on, always mine, and always ready to break.
 
 **Start small, keep it running, and break things on purpose.**
