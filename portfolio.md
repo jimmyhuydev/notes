@@ -10,7 +10,7 @@ author: Jimmy
 
 I work in **IT Support** with a passion for homelabs, infrastructure, and self-directed learning. When I'm not solving problems at work, I'm building and breaking things in my home lab.
 
-Currently pursuing **Python programming** and **DevOps** — always learning, always moving forward.
+Currently pursuing **Python programming**, **Palo Alto firewall** and **DevOps** — always learning, always moving forward.
 
 ---
 
