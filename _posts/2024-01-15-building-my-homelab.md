@@ -6,13 +6,13 @@ category: Infrastructure
 description: "A walkthrough of my personal homelab — hardware, networking, and the VMs I use to learn every day."
 ---
 
-Every engineer reaches a point where theory isn't enough — you need a real environment to break things, fix them, and truly learn. That's exactly why I built my homelab. It's a dedicated, always-on sandbox where I can practice Cisco networking, Linux administration, Python scripting, and ethical hacking — all from home.
+Every engineer reaches a point where theory isn't enough, you need a real environment to break things, fix them, and truly learn. That's exactly why I built my homelab. It's a dedicated, always-on sandbox where I can practice Cisco networking, Linux administration, Python scripting, and ethical hacking — all from home.
 
 Here's a detailed walkthrough of what I built, how it's structured, and what I use it for.
 
 ## The Hardware
 
-The heart of my lab is a compact **Dell Mini PC**. Small, quiet, and power-efficient — perfect for a machine that runs 24/7. Don't let the form factor fool you: it handles multiple VMs without breaking a sweat.
+The heart of my lab is a compact **Dell Mini PC**. Small, quiet, and power efficient, perfect for a machine that runs 24/7. Don't let the form factor fool you: it handles multiple VMs without breaking a sweat.
 
 | Component  | Spec                                |
 |------------|-------------------------------------|
@@ -23,11 +23,11 @@ The heart of my lab is a compact **Dell Mini PC**. Small, quiet, and power-effic
 | Host IP    | 192.168.8.1                         |
 | Hypervisor | Proxmox VE                          |
 
-The 32 GB of RAM is the most important upgrade here. Running five VMs simultaneously — Cisco Modeling Lab, two Ubuntu instances, Kali Linux, and Windows 10 — demands memory above all else.
+The 32 GB of RAM is the most important upgrade here. Running five VMs simultaneously such as: Cisco Modeling Lab, two Ubuntu instances, Kali Linux, and Windows 10 which demands memory above all else.
 
 ## Network Isolation with the GL-SFT1200
 
-One thing I was deliberate about from day one: **keeping the lab network completely isolated from my home Wi-Fi**. For this I use a GL-iNet GL-SFT1200 travel router — a small OpenWrt-based router that creates a dedicated lab subnet.
+One thing I was deliberate about from day one: **keeping the lab network completely isolated from my home Wi-Fi**. For this I use a GL-iNet GL-SFT1200 travel router, a low cost small OpenWrt-based router that creates a dedicated lab subnet.
 
 ```
 Home Wi-Fi ──── GL-SFT1200 ──── Lab Network (192.168.8.x)
@@ -36,13 +36,13 @@ Home Wi-Fi ──── GL-SFT1200 ──── Lab Network (192.168.8.x)
                                      └── 192.168.8.3  CML (Cisco)
 ```
 
-This means any noisy experiments — packet floods, VLAN configs, nmap scans — stay contained within the lab subnet and never touch home devices. Simple but critical.
+This means any noisy experiments packet floods, VLAN configs, nmap scans — stay contained within the lab subnet and never touch home devices. Simple but critical.
 
 ## Proxmox: The Virtualization Layer
 
-On bare metal I run **Proxmox VE**, an open-source hypervisor based on KVM and LXC. Proxmox gives me a clean web interface to spin up, snapshot, clone, and destroy VMs at will — for free.
+On bare metal I run **Proxmox VE**, an opensource hypervisor based on KVM and LXC. Proxmox gives me a clean web interface to spin up, snapshot, clone, and destroy VMs at will and for free.
 
-> Proxmox's snapshot feature is a game-changer for learning. Before trying something risky, take a snapshot. If things go sideways, roll back in seconds.
+> Proxmox's snapshot feature is a gamechanger for learning. Before trying something risky, take a snapshot. If things go sideways, roll back in seconds.
 
 ## Virtual Machines
 
@@ -58,7 +58,7 @@ Each VM serves a specific learning purpose:
 
 ### Cisco Modeling Lab (CML)
 
-CML lets me build real Cisco network topologies and configure actual Cisco IOS — not just simulators. I use it to practice routing protocols, VLAN design, and prepare for certifications.
+CML lets me build real Cisco network topologies and configure actual Cisco IOS, not just simulators. I use it to practice routing protocols, VLAN design, and prepare for certifications.
 
 ### Ubuntu (×2)
 
@@ -66,16 +66,16 @@ My Ubuntu VMs are where I sharpen everyday Linux skills: navigating the terminal
 
 ### Kali Linux
 
-Kali is the industry-standard penetration testing OS. My isolated lab gives me a legal, safe environment to explore it. I focus on `nmap` for network discovery and port scanning — learning to see what attackers see, so I can think defensively.
+Kali is the industry standard penetration testing OS. My isolated lab gives me a legal, safe environment to explore it. I focus on `nmap` for network discovery and port scanning — learning to see what attackers see, so I can think defensively.
 
 ### Windows 10
 
-Real-world IT environments are hybrid. A Windows VM lets me practice cross-platform administration and verify how tools behave across operating systems.
+Real world IT environments are hybrid. A Windows VM lets me practice cross platform administration and verify how tools behave across operating systems.
 
 ## Why Every IT Learner Needs a Lab
 
 Documentation and tutorials only take you so far. The moment you misconfigure a router and lose connectivity, or watch a bash script actually automate a task — that's when knowledge turns into skill.
 
-A used Dell Mini PC and a cheap travel router — that's all it took. In return, I got a personal mobility lab that's always on, always mine, and always ready to break.
+A used Dell Mini PC and a cheap travel router, that's all it took. In return, I got a personal mobility lab that's always on, always mine, and always ready to break.
 
 **Start small, keep it running, and break things on purpose.**
