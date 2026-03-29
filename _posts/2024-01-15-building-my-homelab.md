@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Building My Homelab: A Self-Training Ground"
+title: "Building My Homelab: A Self Training Ground"
 date: 2024-01-15
 category: Infrastructure
-description: "A walkthrough of my personal homelab — hardware, networking, and the VMs I use to learn every day."
+description: "A walkthrough of my personal homelab hardware, networking, and the VMs I use to learn every day."
 ---
 
 Every engineer reaches a point where theory isn't enough, you need a real environment to break things, fix them, and truly learn. That's exactly why I built my homelab. It's a dedicated, always-on sandbox where I can practice Cisco networking, Linux administration, Python scripting, and ethical hacking that is all from home.
