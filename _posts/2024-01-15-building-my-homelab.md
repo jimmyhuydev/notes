@@ -66,7 +66,7 @@ My Ubuntu VMs are where I sharpen everyday Linux skills: navigating the terminal
 
 ### Kali Linux
 
-Kali is the industry standard penetration testing OS. My isolated lab gives me a legal, safe environment to explore it. I focus on `nmap` for network discovery and port scanning — learning to see what attackers see, so I can think defensively.
+Kali is the industry standard penetration testing OS. My isolated lab gives me a legal, safe environment to explore it. I focus on `nmap` for network discovery and port scanning, learning to see what attackers see, so I can think defensively.
 
 ### Windows 10
 
@@ -74,7 +74,7 @@ Real world IT environments are hybrid. A Windows VM lets me practice cross platf
 
 ## Why Every IT Learner Needs a Lab
 
-Documentation and tutorials only take you so far. The moment you misconfigure a router and lose connectivity, or watch a bash script actually automate a task — that's when knowledge turns into skill.
+Documentation and tutorials only take you so far. The moment you misconfigure a router and lose connectivity, or watch a bash script actually automate a task that's when knowledge turns into skill.
 
 A used Dell Mini PC and a cheap travel router, that's all it took. In return, I got a personal mobility lab that's always on, always mine, and always ready to break.
 
