@@ -6,7 +6,7 @@ category: Infrastructure
 description: "A walkthrough of my personal homelab — hardware, networking, and the VMs I use to learn every day."
 ---
 
-Every engineer reaches a point where theory isn't enough, you need a real environment to break things, fix them, and truly learn. That's exactly why I built my homelab. It's a dedicated, always-on sandbox where I can practice Cisco networking, Linux administration, Python scripting, and ethical hacking — all from home.
+Every engineer reaches a point where theory isn't enough, you need a real environment to break things, fix them, and truly learn. That's exactly why I built my homelab. It's a dedicated, always-on sandbox where I can practice Cisco networking, Linux administration, Python scripting, and ethical hacking that is all from home.
 
 Here's a detailed walkthrough of what I built, how it's structured, and what I use it for.
 
