@@ -25,8 +25,7 @@ After the lab3 configuration is applied, ping is not successfully.
 
 - Ensure that you use TAGS (color code)
 
- ![](assets/Labs/Lab8/media/image14.png)
- <img src="assets/Labs/Lab8/media/image14.png" width="100%">
+ ![](https://raw.githubusercontent.com/jimmyhuydev/notes/refs/heads/master/assets/Labs/Lab8/media/image14.png)
 
 Tag color code is setup.
 
