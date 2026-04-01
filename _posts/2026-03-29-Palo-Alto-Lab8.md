@@ -13,8 +13,7 @@ tags: [software, tools, productivity, palo alto, homelab]
 
 Perform the following actions on the firewall:
 
-![](assets/Labs/Lab8/media/image7.png){width="4.953125546806649in"
-height="1.579601924759405in"}
+![](assets/Labs/Lab8/media/image7.png)
 
 Before apply the lab3 configuration, ping google is successfully.
 
