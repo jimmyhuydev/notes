@@ -14,22 +14,26 @@ tags: [software, tools, productivity, palo alto, homelab]
 Perform the following actions on the firewall:
 
 ![](assets/Labs/Lab8/media/image7.png)
+<img src="assets/Labs/Lab8/media/image7.png" width="100%">
 
 Before apply the lab3 configuration, ping google is successfully.
 
 ![](assets/Labs/Lab8/media/image1.png)
+<img src="assets/Labs/Lab8/media/image1.png" width="100%">
 
 After the lab3 configuration is applied, ping is not successfully.
 
 - Ensure that you use TAGS (color code)
 
  ![](assets/Labs/Lab8/media/image14.png)
+ <img src="assets/Labs/Lab8/media/image14.png" width="100%">
 
 Tag color code is setup.
 
 - Change the admin password
 
 ![](assets/Labs/Lab8/media/image16.png)
+<img src="assets/Labs/Lab8/media/image16.png" width="100%">
 
 Changed admin password to P@ssw0rd
 
@@ -37,22 +41,28 @@ Changed admin password to P@ssw0rd
   captures)
 
  ![](assets/Labs/Lab8/media/image12.png)
+ <img src="assets/Labs/Lab8/media/image12.png" width="100%">
 
  Created user log-admin policy
 
  ![](assets/Labs/Lab8/media/image8.png)
+ <img src="assets/Labs/Lab8/media/image8.png" width="100%">
 
-> Created logsuser using log-admin role.
+Created logsuser using log-admin role.
 
 - Replace the security certificate on the firewall
 
-> ![](assets/Labs/Lab8/media/image6.png) Generate certificate jimmylab03
+ ![](assets/Labs/Lab8/media/image6.png)
+ <img src="assets/Labs/Lab8/media/image6.png" width="100%">
+
+Generate certificate jimmylab03
 
 #### Part B: Nat and Security Policies
 
 - Create and associate Zones with interfaces
 
  ![](assets/Labs/Lab8/media/image9.png)
+ <img src="assets/Labs/Lab8/media/image9.png" width="100%">
 
  Zones with interfaces
 
@@ -66,37 +76,45 @@ Changed admin password to P@ssw0rd
   - Windows- Ports: 25, 3389
 
 ![](assets/Labs/Lab8/media/image10.png)
+<img src="assets/Labs/Lab8/media/image10.png" width="100%">
 
 Setup the color tags
 
 ![](assets/Labs/Lab8/media/image20.png)
+<img src="assets/Labs/Lab8/media/image20.png" width="100%">
 
 NAT rules for outside to dmz ftp / http / ssh
 
 ![](assets/Labs/Lab8/media/image13.png)
+<img src="assets/Labs/Lab8/media/image13.png" width="100%">
 
 Policy for outside to dmz ftp / http / ssh
 
 ![](assets/Labs/Lab8/media/image19.png)
+<img src="assets/Labs/Lab8/media/image19.png" width="100%">
 
 NAT port 25 and 3389 for windows
 
 ![](assets/Labs/Lab8/media/image17.png)
+<img src="assets/Labs/Lab8/media/image17.png" width="100%">
 
 Policy for port 25 and 3389 for windows
 
 ![](assets/Labs/Lab8/media/image18.png)
+<img src="assets/Labs/Lab8/media/image18.png" width="100%">
 
 Port 80 can be access with curl command
 
 - Create a rule/policy to allow the Windows system to FTP to the DMZ
   system
 
- ![](media/image15.png)
+ ![](assets/Labs/Lab8/media/image15.png)
+  <img src="assets/Labs/Lab8/media/image15.png" width="100%">
 
  NAT Windows inside to dmz ftp
 
  ![](assets/Labs/Lab8/media/image11.png)
+ <img src="assets/Labs/Lab8/media/image11.png" width="100%">
 
  Policy windows inside to dmz ftp
 
@@ -120,10 +138,12 @@ Port 80 can be access with curl command
     - nmap -sS -p80, 21, 22 etc x.x.x.x.
 
 ![](assets/Labs/Lab8/media/image2.png)
+ <img src="assets/Labs/Lab8/media/image2.png" width="100%">
 
 Nmap scan to show the port open at firewall
 
 ![](assets/Labs/Lab8/media/image3.png)
+ <img src="assets/Labs/Lab8/media/image3.png" width="100%">
 
 Ftp from inside to DMZ
 
@@ -146,6 +166,7 @@ I don't see scanning activity in Palo Alto
  Yes, I can see the port services open via logs
 
  ![](assets/Labs/Lab8/media/image21.png)
+  <img src="assets/Labs/Lab8/media/image21.png" width="100%">
 
 - Use the ACC network activity to analyze your firewall logs. Narrow
   down your view to your outside ports/services
@@ -153,11 +174,13 @@ I don't see scanning activity in Palo Alto
  I can see the services in ACC as following
 
  ![](assets/Labs/Lab8/media/image5.png)
+  <img src="assets/Labs/Lab8/media/image5.png" width="100%">
 
 - Utilize Wireshark to view the logs that Palo Alto created.
 
   - Did the Palo Alto pcap logs capture the above activity?
 
  ![](assets/Labs/Lab8/media/image4.png)
+  <img src="assets/Labs/Lab8/media/image4.png" width="100%">
 
  Yes the pcap logs shows the nmap scan
