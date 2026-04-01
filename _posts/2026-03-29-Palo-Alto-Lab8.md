@@ -23,25 +23,25 @@ After the lab3 configuration is applied, ping is not successfully.
 
 - Ensure that you use TAGS (color code)
 
-> ![](assets/Labs/Lab8/media/image14.png)
->
-> Tag color code is setup.
+ ![](assets/Labs/Lab8/media/image14.png)
+
+Tag color code is setup.
 
 - Change the admin password
 
-> ![](assets/Labs/Lab8/media/image16.png)
->
-> Changed admin password to P@ssw0rd
+![](assets/Labs/Lab8/media/image16.png)
+
+Changed admin password to P@ssw0rd
 
 - Create a user that has access to all of the logs (including packet
   captures)
 
-> ![](assets/Labs/Lab8/media/image12.png)
->
-> Created user log-admin policy
->
-> ![](assets/Labs/Lab8/media/image8.png)
->
+ ![](assets/Labs/Lab8/media/image12.png)
+
+ Created user log-admin policy
+
+ ![](assets/Labs/Lab8/media/image8.png)
+
 > Created logsuser using log-admin role.
 
 - Replace the security certificate on the firewall
@@ -52,9 +52,9 @@ After the lab3 configuration is applied, ping is not successfully.
 
 - Create and associate Zones with interfaces
 
-> ![](assets/Labs/Lab8/media/image9.png)
->
-> Zones with interfaces
+ ![](assets/Labs/Lab8/media/image9.png)
+
+ Zones with interfaces
 
 - Create rules/policies to allow the below ports/services to be accessed
   from the internet
@@ -92,13 +92,13 @@ Port 80 can be access with curl command
 - Create a rule/policy to allow the Windows system to FTP to the DMZ
   system
 
-> ![](media/image15.png)
->
-> NAT Windows inside to dmz ftp
->
-> ![](assets/Labs/Lab8/media/image11.png)
->
-> Policy windows inside to dmz ftp
+ ![](media/image15.png)
+
+ NAT Windows inside to dmz ftp
+
+ ![](assets/Labs/Lab8/media/image11.png)
+
+ Policy windows inside to dmz ftp
 
 #### Part C: Packet Capture and Analysis (using nmap)
 
@@ -143,21 +143,21 @@ I don't see scanning activity in Palo Alto
 
 - Are you able to see your ports/services open via the logs generated?
 
-> Yes, I can see the port services open via logs
->
-> ![](assets/Labs/Lab8/media/image21.png)
+ Yes, I can see the port services open via logs
+
+ ![](assets/Labs/Lab8/media/image21.png)
 
 - Use the ACC network activity to analyze your firewall logs. Narrow
   down your view to your outside ports/services
 
-> I can see the services in ACC as following
->
-> ![](assets/Labs/Lab8/media/image5.png)
+ I can see the services in ACC as following
+
+ ![](assets/Labs/Lab8/media/image5.png)
 
 - Utilize Wireshark to view the logs that Palo Alto created.
 
   - Did the Palo Alto pcap logs capture the above activity?
 
-> ![](assets/Labs/Lab8/media/image4.png)
->
-> Yes the pcap logs shows the nmap scan
+ ![](assets/Labs/Lab8/media/image4.png)
+
+ Yes the pcap logs shows the nmap scan
