@@ -9,9 +9,7 @@ tags: [software, tools, productivity, palo alto, homelab]
 
 # Zero Trust and NAT
 
-#### Part A:
-
-Perform the following actions on the firewall:
+# Part A: Perform the following actions on the firewall:
 
 ![](https://raw.githubusercontent.com/jimmyhuydev/notes/refs/heads/master/assets/Labs/Lab8/media/image7.png)
 
@@ -50,7 +48,7 @@ Created logsuser using log-admin role.
 
 Generate certificate jimmylab03
 
-#### Part B: Nat and Security Policies
+# Part B: Nat and Security Policies
 
 - Create and associate Zones with interfaces
 
@@ -101,7 +99,7 @@ Port 80 can be access with curl command
 
  Policy windows inside to dmz ftp
 
-#### Part C: Packet Capture and Analysis (using nmap)
+# Part C: Packet Capture and Analysis (using nmap)
 
 - Log in as a user with log rights that you created earlier
 
