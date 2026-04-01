@@ -13,13 +13,11 @@ tags: [software, tools, productivity, palo alto, homelab]
 
 Perform the following actions on the firewall:
 
-![](assets/Labs/Lab8/media/image7.png)
-<img src="assets/Labs/Lab8/media/image7.png" width="100%">
+![](https://raw.githubusercontent.com/jimmyhuydev/notes/refs/heads/master/assets/Labs/Lab8/media/image7.png)
 
 Before apply the lab3 configuration, ping google is successfully.
 
-![](assets/Labs/Lab8/media/image1.png)
-<img src="assets/Labs/Lab8/media/image1.png" width="100%">
+![](https://raw.githubusercontent.com/jimmyhuydev/notes/refs/heads/master/assets/Labs/Lab8/media/image1.png)
 
 After the lab3 configuration is applied, ping is not successfully.
 
@@ -31,28 +29,24 @@ Tag color code is setup.
 
 - Change the admin password
 
-![](assets/Labs/Lab8/media/image16.png)
-<img src="assets/Labs/Lab8/media/image16.png" width="100%">
+![](https://raw.githubusercontent.com/jimmyhuydev/notes/refs/heads/master/assets/Labs/Lab8/media/image16.png)
 
 Changed admin password to P@ssw0rd
 
 - Create a user that has access to all of the logs (including packet
   captures)
 
- ![](assets/Labs/Lab8/media/image12.png)
- <img src="assets/Labs/Lab8/media/image12.png" width="100%">
+ ![](https://raw.githubusercontent.com/jimmyhuydev/notes/refs/heads/master/assets/Labs/Lab8/media/image12.png)
 
  Created user log-admin policy
 
- ![](assets/Labs/Lab8/media/image8.png)
- <img src="assets/Labs/Lab8/media/image8.png" width="100%">
+ ![](https://raw.githubusercontent.com/jimmyhuydev/notes/refs/heads/master/assets/Labs/Lab8/media/image8.png)
 
 Created logsuser using log-admin role.
 
 - Replace the security certificate on the firewall
 
- ![](assets/Labs/Lab8/media/image6.png)
- <img src="assets/Labs/Lab8/media/image6.png" width="100%">
+ ![](https://raw.githubusercontent.com/jimmyhuydev/notes/refs/heads/master/assets/Labs/Lab8/media/image6.png)
 
 Generate certificate jimmylab03
 
@@ -60,9 +54,7 @@ Generate certificate jimmylab03
 
 - Create and associate Zones with interfaces
 
- ![](assets/Labs/Lab8/media/image9.png)
- <img src="assets/Labs/Lab8/media/image9.png" width="100%">
-
+ ![](https://raw.githubusercontent.com/jimmyhuydev/notes/refs/heads/master/assets/Labs/Lab8/media/image9.png)
  Zones with interfaces
 
 - Create rules/policies to allow the below ports/services to be accessed
@@ -74,46 +66,38 @@ Generate certificate jimmylab03
 
   - Windows- Ports: 25, 3389
 
-![](assets/Labs/Lab8/media/image10.png)
-<img src="assets/Labs/Lab8/media/image10.png" width="100%">
+![](https://raw.githubusercontent.com/jimmyhuydev/notes/refs/heads/master/assets/Labs/Lab8/media/image10.png)
 
 Setup the color tags
 
-![](assets/Labs/Lab8/media/image20.png)
-<img src="assets/Labs/Lab8/media/image20.png" width="100%">
+![](https://raw.githubusercontent.com/jimmyhuydev/notes/refs/heads/master/assets/Labs/Lab8/media/image20.png)
 
 NAT rules for outside to dmz ftp / http / ssh
 
-![](assets/Labs/Lab8/media/image13.png)
-<img src="assets/Labs/Lab8/media/image13.png" width="100%">
+![](https://raw.githubusercontent.com/jimmyhuydev/notes/refs/heads/master/assets/Labs/Lab8/media/image13.png)
 
 Policy for outside to dmz ftp / http / ssh
 
-![](assets/Labs/Lab8/media/image19.png)
-<img src="assets/Labs/Lab8/media/image19.png" width="100%">
+![](https://raw.githubusercontent.com/jimmyhuydev/notes/refs/heads/master/assets/Labs/Lab8/media/image19.png)
 
 NAT port 25 and 3389 for windows
 
-![](assets/Labs/Lab8/media/image17.png)
-<img src="assets/Labs/Lab8/media/image17.png" width="100%">
+![](https://raw.githubusercontent.com/jimmyhuydev/notes/refs/heads/master/assets/Labs/Lab8/media/image17.png)
 
 Policy for port 25 and 3389 for windows
 
-![](assets/Labs/Lab8/media/image18.png)
-<img src="assets/Labs/Lab8/media/image18.png" width="100%">
+![](https://raw.githubusercontent.com/jimmyhuydev/notes/refs/heads/master/assets/Labs/Lab8/media/image18.png)
 
 Port 80 can be access with curl command
 
 - Create a rule/policy to allow the Windows system to FTP to the DMZ
   system
 
- ![](assets/Labs/Lab8/media/image15.png)
-  <img src="assets/Labs/Lab8/media/image15.png" width="100%">
+ ![](https://raw.githubusercontent.com/jimmyhuydev/notes/refs/heads/master/assets/Labs/Lab8/media/image15.png)
 
  NAT Windows inside to dmz ftp
 
- ![](assets/Labs/Lab8/media/image11.png)
- <img src="assets/Labs/Lab8/media/image11.png" width="100%">
+ ![](https://raw.githubusercontent.com/jimmyhuydev/notes/refs/heads/master/assets/Labs/Lab8/media/image11.png)
 
  Policy windows inside to dmz ftp
 
@@ -136,13 +120,11 @@ Port 80 can be access with curl command
 
     - nmap -sS -p80, 21, 22 etc x.x.x.x.
 
-![](assets/Labs/Lab8/media/image2.png)
- <img src="assets/Labs/Lab8/media/image2.png" width="100%">
+![](https://raw.githubusercontent.com/jimmyhuydev/notes/refs/heads/master/assets/Labs/Lab8/media/image2.png)
 
 Nmap scan to show the port open at firewall
 
-![](assets/Labs/Lab8/media/image3.png)
- <img src="assets/Labs/Lab8/media/image3.png" width="100%">
+![](https://raw.githubusercontent.com/jimmyhuydev/notes/refs/heads/master/assets/Labs/Lab8/media/image3.png)
 
 Ftp from inside to DMZ
 
@@ -164,22 +146,20 @@ I don't see scanning activity in Palo Alto
 
  Yes, I can see the port services open via logs
 
- ![](assets/Labs/Lab8/media/image21.png)
-  <img src="assets/Labs/Lab8/media/image21.png" width="100%">
+ ![](https://raw.githubusercontent.com/jimmyhuydev/notes/refs/heads/master/assets/Labs/Lab8/media/image21.png)
 
 - Use the ACC network activity to analyze your firewall logs. Narrow
   down your view to your outside ports/services
 
  I can see the services in ACC as following
 
- ![](assets/Labs/Lab8/media/image5.png)
-  <img src="assets/Labs/Lab8/media/image5.png" width="100%">
+ ![](https://raw.githubusercontent.com/jimmyhuydev/notes/refs/heads/master/assets/Labs/Lab8/media/mage5.png)
 
 - Utilize Wireshark to view the logs that Palo Alto created.
 
   - Did the Palo Alto pcap logs capture the above activity?
 
- ![](assets/Labs/Lab8/media/image4.png)
-  <img src="assets/Labs/Lab8/media/image4.png" width="100%">
+ ![](https://raw.githubusercontent.com/jimmyhuydev/notes/refs/heads/master/assets/Labs/Lab8/media/image4.png)
+
 
  Yes the pcap logs shows the nmap scan
