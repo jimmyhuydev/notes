@@ -9,6 +9,7 @@ author: Jimmy
 ## bookmarks
 
 * [Debloat windows 11](https://github.com/raphire/win11debloat)
+* [Palo Alto PCNSA](https://www.paloaltonetworks.com/content/dam/pan/en_US/assets/pdf/datasheets/education/pcnsa-study-guide-latest.pdf)
 
 ## Alternative to github
 https://forgejo.org/
