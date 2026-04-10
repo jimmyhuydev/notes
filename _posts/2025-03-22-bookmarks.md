@@ -8,6 +8,8 @@ author: Jimmy
 
 ## bookmarks
 
+* [Debloat windows 11](https://github.com/raphire/win11debloat)
+
 ## Alternative to github
 https://forgejo.org/
 
