@@ -28,7 +28,7 @@ description: "Love is work made visible."
     mv → Move/rename files/directories
     
 
-  # 2. File Viewing & Editing
+# 2. File Viewing & Editing
 
     cat → View file contents
 
@@ -49,7 +49,7 @@ description: "Love is work made visible."
     wc → Count words, lines, characters
 
 
-  # 3. Search & Help
+# 3. Search & Help
 
     find → Search for files/directories
 
@@ -60,7 +60,7 @@ description: "Love is work made visible."
     history → Show command history
 
 
-  # 4. Permissions & Ownership
+# 4. Permissions & Ownership
 
     chmod → Change file permissions
 
@@ -71,7 +71,7 @@ description: "Love is work made visible."
     whoami → Show current user
     
 
-  # 5. System Info & Resources
+# 5. System Info & Resources
 
     uname → Show OS information
 
@@ -88,7 +88,7 @@ description: "Love is work made visible."
     clear → Clear terminal screen
 
 
- # 6. Process Management
+# 6. Process Management
 
     top → View running processes
 
@@ -97,7 +97,7 @@ description: "Love is work made visible."
     kill → Terminate a process
     
 
- # 7. Networking & Remote Access
+# 7. Networking & Remote Access
 
     ping → Test network connection
 
