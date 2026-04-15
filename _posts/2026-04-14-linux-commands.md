@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "100 linux commands"
-date: 2025-04-14
+date: 2026-04-14
 category: command, linux
 description: "Love is work made visible."
 ---
