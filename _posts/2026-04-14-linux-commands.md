@@ -26,6 +26,7 @@ description: "Love is work made visible."
     cp → Copy files/directories
 
     mv → Move/rename files/directories
+    
 
   # 2. File Viewing & Editing
 
@@ -47,6 +48,7 @@ description: "Love is work made visible."
 
     wc → Count words, lines, characters
 
+
   # 3. Search & Help
 
     find → Search for files/directories
@@ -57,6 +59,7 @@ description: "Love is work made visible."
 
     history → Show command history
 
+
   # 4. Permissions & Ownership
 
     chmod → Change file permissions
@@ -66,6 +69,7 @@ description: "Love is work made visible."
     passwd → Change password
 
     whoami → Show current user
+    
 
   # 5. System Info & Resources
 
@@ -83,6 +87,7 @@ description: "Love is work made visible."
 
     clear → Clear terminal screen
 
+
  # 6. Process Management
 
     top → View running processes
@@ -90,6 +95,7 @@ description: "Love is work made visible."
     ps → List processes
 
     kill → Terminate a process
+    
 
  # 7. Networking & Remote Access
 
@@ -105,6 +111,7 @@ description: "Love is work made visible."
 
     scp → Copy files between machines
 
+
 # 8. Archiving & Compression
 
     zip → Compress to ZIP
@@ -113,11 +120,13 @@ description: "Love is work made visible."
 
     tar → Create/extract TAR archives
 
+
 # 9. System Control
 
     shutdown → Shut down the system
 
     reboot → Restart the system
+
 
 # 10. Command Customization
 
