@@ -76,13 +76,13 @@ I have completed the following lessons:
 * Palo Alto - Security Operation Fundamental
 * Palo Alto - Cloud Security Fundamental
 * Palo Alto - Network Security Fundamental
+* American Red Cross/CPR 2026
 
 ---
 ## Contact
 
 | | |
 |-|---|
-| 📧 Email | [jimmyhuy.au@gmail.com](mailto:jimmyhuy.au@gmail.com) |
 | 💼 LinkedIn | [https://www.linkedin.com/in/itwizardnz/](https://www.linkedin.com/in/itwizardnz/) |
 | 🐙 GitHub | [https://github.com/jimmyhuydev](https://github.com/jimmyhuydev) |
 
