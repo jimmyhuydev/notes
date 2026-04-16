@@ -20,9 +20,11 @@ description: "Homelab - Linux permission"
 |111|7 (4+2+1)|r w x|read + write + execute|
 
 # Permission structure (divided in 3 groups)
-|r w r|r w|r - x|
-|---|---|---|
+
 |owner|group|other|
+|---|---|---|
+|r w r|r w|r - x|
+
 
 |Permission| Binary|
 |---|---|
