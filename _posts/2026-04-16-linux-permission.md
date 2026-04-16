@@ -32,8 +32,8 @@ description: "Homelab - Linux permission"
 |r - x| 4 + 0 + 1 = 5|
 |Permission|765|
 
-r - read  | w - write / edit | x - execute | 
-4 - read  | 2 - write / edit | 1 - execute |
+r - read  | w - write / edit | x - execute |  <br>
+4 - read  | 2 - write / edit | 1 - execute |  <br>
 
 
 
