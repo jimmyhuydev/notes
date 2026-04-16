@@ -22,5 +22,6 @@ description: "Homelab - Linux permission"
 
 # Permission structure (divided in 3 groups)
 |r w r|r w|r - x|
+|---|---|---|
 |owner|group|other|
 
