@@ -3,7 +3,7 @@
 layout: post
 title: "Homelab - Linux permission"
 date: 2026-04-16
-category: homelab
+category: linux
 description: "Homelab - Linux permission"
 ---
 
