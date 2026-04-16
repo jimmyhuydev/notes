@@ -25,3 +25,10 @@ description: "Homelab - Linux permission"
 |---|---|---|
 |owner|group|other|
 
+|Permission| Binary|
+|---|---|
+|r w x| 4 + 3 + 1 = 7|
+|r - -| 4 + 2 + 0 = 6|
+|r - x| 4 + 0 + 1 = 5|
+
+
