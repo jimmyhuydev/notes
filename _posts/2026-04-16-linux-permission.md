@@ -35,5 +35,8 @@ description: "Homelab - Linux permission"
 r - read  | w - write / edit | x - execute |  <br>
 4 - read  | 2 - write / edit | 1 - execute |  <br>
 
-
+# Commands
+chmod 777 file --> full access for everyone <b>
+chmod 755 file --> owner full, other read + execute <br>
+chmod 644 file --> owner read + write, other read <br>
 
