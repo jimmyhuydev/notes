@@ -4,3 +4,10 @@
 |Binary|Octal|String representation|Meaning|
 |---|---|---|---|
 |000|0(0+0+0)|---|no permission|
+|001|1(0+0+1)|--x|execute|
+|010|2(0+2+0)|-w-|write|
+|011|3(0+2+1)|-wr|write + execute|
+|100|4(4+0+0)|r--|read|
+|101|5(4+0+1)|r-x|read + execute|
+|110|6(4+2+0)|rw-|read + write|
+|111|7(4+2+1)|rwx|read + write + execute|
