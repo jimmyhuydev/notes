@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Homelab - Linux permission"
