@@ -12,8 +12,9 @@ author: Jimmy
 * [Palo Alto PCNSA](https://www.paloaltonetworks.com/content/dam/pan/en_US/assets/pdf/datasheets/education/pcnsa-study-guide-latest.pdf)
 
 # Art
-[Ben Watson](https://watsonwatercolor.com/)
-[Steve Rude](https://www.steverude.com/)
+[Ben Watson](https://watsonwatercolor.com/) <b>
+[Steve Rude](https://www.steverude.com/) <br>
+[Mark Simon - Godfather of Storyboarding ](https://storyboards-east.com/) <br>
 
 ## Alternative to github
 https://forgejo.org/
