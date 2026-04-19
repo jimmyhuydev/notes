@@ -11,6 +11,10 @@ author: Jimmy
 * [Debloat windows 11](https://github.com/raphire/win11debloat)
 * [Palo Alto PCNSA](https://www.paloaltonetworks.com/content/dam/pan/en_US/assets/pdf/datasheets/education/pcnsa-study-guide-latest.pdf)
 
+# Art
+[Ben Watson](https://watsonwatercolor.com/)
+[Steve Rude](https://www.steverude.com/)
+
 ## Alternative to github
 https://forgejo.org/
 
