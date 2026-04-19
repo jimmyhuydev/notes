@@ -13,7 +13,9 @@ author: Jimmy
 
 # Art
 [Ben Watson](https://watsonwatercolor.com/) <b>
+
 [Steve Rude](https://www.steverude.com/) <br>
+
 [Mark Simon - Godfather of Storyboarding ](https://storyboards-east.com/) <br>
 
 ## Alternative to github
