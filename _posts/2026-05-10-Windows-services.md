@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "turn off those windows services to save RAM on old laptops"
+title: "Turn off those windows services to save RAM on old laptops"
 date: 2026-05-10
 category: windows
 description: "turn off those windows services to save RAM on old laptops"
 ---
 
-# turn off those windows services to save RAM on old laptops
+# Turn off those windows services to save RAM on old laptops
 
 1 connect user experience
 
