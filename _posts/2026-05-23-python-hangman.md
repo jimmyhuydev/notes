@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Hangman game in Python"
+title: "[python] Hangman game in Python"
 date: 2026-05-23
 category: python project homelab
-description: "Hangman game in Python"
+description: "[python] Hangman game in Python"
 ---
 
 Project to build Hangman game with Python
