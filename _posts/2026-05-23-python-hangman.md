@@ -8,7 +8,7 @@ description: "Hangman game in Python"
 
 Project to build Hangman game with Python
 
-The project is using 
+The project is using list, random and loop and condition.
 
 ```
 import random
