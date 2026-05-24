@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "encrypt password and decrypt password - python program"
+title: "[python] encrypt password and decrypt password - python program"
 date: 2026-05-23
 category: python project homelab
-description: "encrypt password and decrypt password - python program"
+description: "[python] encrypt password and decrypt password - python program"
 ---
 
 # Project to encrypt password and decrypt password
