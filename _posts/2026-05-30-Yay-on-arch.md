@@ -7,7 +7,7 @@ Categories: yay, archlinux, linux
 
 # Arch installation
 
-Save time, you can use archinstall to run the installation
+Saving time, you can use archinstall to run the installation
 
 For gnome using, I need to run the following commands:
 ```
