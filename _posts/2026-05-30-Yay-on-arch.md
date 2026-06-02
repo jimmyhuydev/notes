@@ -1,9 +1,9 @@
------------------------------------
+---
 layout: post
 title: "Yay installation on arch linux"
 Date: 2026-05-31
 Categories: yay, archlinux, linux
-------------------------------------
+---
 
 # Arch installation
 
