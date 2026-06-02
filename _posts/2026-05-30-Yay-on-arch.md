@@ -9,7 +9,7 @@ Categories: yay, archlinux, linux
 
 Saving time, you can use archinstall to run the installation
 
-For gnome using, I need to run the following commands:
+For using gnome desktop, I need to run the following commands:
 ```
 sudo pacman -Sy gnome-desktop gnome
 sudo systemctl enable gdm.service
