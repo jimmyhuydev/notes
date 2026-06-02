@@ -25,7 +25,7 @@ sudo pacman -Sy firefox
 nmcli radio wifi on
 nmc device wifi list
 nmcli device wifi list
-nmcli device wifi connect Smurf
+nmcli device wifi connect Yourwifinetwork
 nmcli device wifi connect Yourwifinetwork password Itisyourpassword
 
 ```
