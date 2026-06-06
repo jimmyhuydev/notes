@@ -64,3 +64,7 @@ When thing break
 git reset --hard origin/master   #Nuclear options
 ```
 
+# Vmware on linux mint
+```
+URL: https://ubuntuhandbook.org/index.php/2024/04/install-vmware-player-ubuntu/
+```
