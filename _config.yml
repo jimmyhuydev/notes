@@ -64,6 +64,7 @@ minima:
   nav_pages:
     - about.md
     - portfolio.md
+    - logs.md
 #
 #   Set to `true` to show excerpts on the homepage.
 #   show_excerpts: false
