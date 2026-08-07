@@ -14,4 +14,4 @@ June 2026
 * Luckly I found a room to share and they allow us to stay temporarily.
 
 May 2026
-Completed training in Sierra College.
+* Completed training in Sierra College.
