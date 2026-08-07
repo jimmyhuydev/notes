@@ -8,7 +8,7 @@ Categories: special characters, linux
 
 # Special Characters
 
-* is called asterisk or star. It is used for regular expression and as a glob character.
+'* is called asterisk or star. It is used for regular expression and as a glob character.
 
 ' is called tick or single quote. It is used for literal strings.
 
@@ -22,7 +22,7 @@ $ is called dollar sign. It is used for denotation of a variable or for represen
 
 ! is called bang. It is used for command history and negation.
 
-| is called pipe. It is used for command pipes
+'| is called pipe. It is used for command pipes
 
 ` is called backtick or backquote. It is used for substitution of command.
 
