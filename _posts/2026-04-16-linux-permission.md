@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Homelab - Linux permission"
+title: "Linux permission"
 date: 2026-04-16
 category: linux
-description: "Homelab - Linux permission"
+description: "Linux permission"
 ---
 
 # Linux permissions
@@ -13,7 +13,7 @@ description: "Homelab - Linux permission"
 |000|0 (0+0+0)|- - -|no permission|
 |001|1 (0+0+1)|- - x|execute|
 |010|2 (0+2+0)|- w -|write|
-|011|3 (0+2+1)|- w r|write + execute|
+|011|3 (0+2+1)|- w x|write + execute|
 |100|4 (4+0+0)|r - -|read|
 |101|5 (4+0+1)|r - x|read + execute|
 |110|6 (4+2+0)|r w -|read + write|
