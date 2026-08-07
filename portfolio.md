@@ -97,7 +97,7 @@ A personal lab built on a Dell Mini PC running Proxmox VE. Used daily to practic
 ### School‑Based IT Support (Training & Practical Lab Experience)
 ### 2024 – 2026
     • Supported Windows Server/AD environments across labs, and devices.
-    • Collaborate with team in Cyber Security Challenges to attack & protect the system with team.  
+    • Collaborate with team in Cyber Security Challenges to attack & protect the system.  
     • Responded to diverse user needs with clear communication and expectation setting.
     • Assisted with server patching, workstation imaging, and secure configuration.
     • Contributed to documentation and continuous improvement initiatives.
