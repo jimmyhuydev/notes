@@ -2,8 +2,7 @@
 
 ## August 2026
 
-* It is hard to find IT jobs in Melbourne. I keep playing with my homelab.
-* After 8 years without find jobs, now I am learning how to build resume and cover letter again to find jobs.
+* It is hard to find IT jobs in Melbourne. I keep playing with my homelab, building resume and coverletter for each application.
 * Starting to learn driving forklift to find works with flexible hours. 
 
 ## July 2026
