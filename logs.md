@@ -4,6 +4,9 @@
 
 * It is hard to find IT jobs in Melbourne. I keep playing with my homelab, building resume and coverletter for each application.
 * Starting to learn driving forklift to find works with flexible hours. 
+* Learning containerdev to create lab in virtual environment.
+* Applied for volunteer to earn the reference but they don't have available slot at this time.
+
 
 ## July 2026
 * Submit resumes, I got fews first interview but they all went to silent.
