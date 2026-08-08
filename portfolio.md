@@ -20,52 +20,14 @@ I'm an IT Support professional who believes the best way to learn is to get your
 
 ---
 
-## My Homelab Setup
-
-| Component | Detail |
-|-----------|--------|
-| **Host Machine** | Dell Mini PC |
-| **CPU** | Intel Core i5-7500T @ 2.70GHz |
-| **RAM** | 32 GB |
-| **Storage** | 1 TB HDD |
-| **Hypervisor** | Proxmox VE |
-| **Network** | GL-iNet GL-SFT1200 (lab isolation) |
-
-### Virtual Machines
-
-| VM | Purpose |
-|----|---------|
-| CML — Cisco Modeling Lab | Routers, switches, OSPF, BGP |
-| Ubuntu × 2 | Linux admin, Bash, Python, Vim |
-| Kali Linux | nmap, security tooling |
-| Windows 10 | Cross-platform testing |
-
----
-
-## Skills
-
-**Networking**
-Cisco IOS · VLANs · OSPF · BGP · TCP/IP 
-
-**Linux**
-Ubuntu · Kali · Bash scripting · Vim · SSH
-
-**Virtualisation**
-Proxmox VE · UTM · CML (Cisco Modeling Lab)
-
-**Tools & Software**
-Git · VS Code · Python · Wireshark · Nmap
-
-**IT Support**
-Hardware troubleshooting · OS installation · User support · Documentation
-
----
-
 ## Projects
 
 ### 🖥️ Homelab — Self Training Ground
 A personal lab built on a Dell Mini PC running Proxmox VE. Used daily to practice Cisco networking, Linux administration, and security tooling in an isolated environment.
 [Read the write-up →]({% post_url 2024-01-15-building-my-homelab %})
+
+Using containerlab to learn docker and virtualization
+
 
 ---
 ## Key Skills:
